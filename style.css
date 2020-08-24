@@ -1,0 +1,210 @@
+*{margin: 0px; padding: 0px;}
+body{
+	background-color: lightblue;
+
+}
+.main{
+	width: 80%;
+	margin: auto;
+	display: inline;
+	background-color: green;
+
+}
+.second{
+	display: inline;
+	display: flex;
+	margin: auto;
+}
+ ul li{
+	list-style-type: none;
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	margin: auto;
+	padding: 20px;
+
+
+
+}
+ ul li a{
+	text-decoration: none;
+	color: black;
+
+}
+h1{
+	margin-right: 450px;
+	padding: 15px;
+
+}
+ul li a:hover{
+	
+	border-radius: 30px;
+}
+.third{
+	display: flex;
+}
+p{
+	display: inline;
+	
+}
+h2{
+	display: inline;
+
+
+}
+.thaird.four h1{
+	margin-bottom: 10px;
+}
+button{
+	padding: 10px;
+	background-color: blue;
+	color: white;
+	border-radius: 30px;
+	border:none;
+	width: 180px;
+	cursor: pointer;
+
+}
+img{
+	margin-right: 30px;
+}
+.one{
+	width: 1000px;
+	
+	margin: auto;
+	margin-top: 50px;
+	background-color:lightgray;
+
+}
+.five{
+	text-align: center;
+	color: blue;
+	margin-top: 30px;
+}
+#six{
+	
+	display: inline-block;
+	text-align: center;
+	margin-top: 30px;
+	
+	width: 300px;
+	height: 250px;
+	margin-right: 20px;
+
+
+	
+}
+
+.seven{
+	text-align: center;
+	
+	display: inline-block;
+	
+	width: 300px;
+	height: 250px;
+	margin-right: 20px;
+}
+.eight{
+	width: 100%;
+	height: 150px;
+	background-color: red;
+
+}
+.eigth,h3{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	display: inline-block;
+	margin-left: 350px;
+	margin-top: 50px;
+
+}
+.para{
+	width: 100%;
+	height: 200px;
+	background-color: lightgray;
+	text-align: center;
+	font-size: 25px;
+
+
+}
+.para,p{
+	padding-top: 40px;
+}
+.btn:hover{
+	background-color: red;
+	color: white;
+}
+
+.btn{
+	background-color: white;
+	color: black;
+	padding: 10px;
+
+}
+.foot{
+	width: 100%;
+	height: 400px;
+	background-color: ;
+	display: flex;
+
+}
+
+}
+.ffoot h4{
+	padding-bottom: 30px;
+}
+.ffoot {
+	width: 200px;
+	height: 400px;
+	margin-right: 20px;
+	margin-top: 20px;
+	padding-bottom: 30px;
+	margin-left: 70px;
+}
+.sfoot{
+	margin-right: 100px;
+	margin-top: 20px;
+	width: 200px;
+}
+.sfoot p{
+	margin-top:30px;
+}
+.sfoot h4{
+	padding-bottom: 30px;
+}
+input[type="text"]{
+	padding: 10px;
+	margin-top: 30px;
+	display: inline;
+	position: relative;
+	border:none;
+}
+input[type="button"]{
+	display: inline;
+	padding: 8px;
+	position: absolute;
+	margin-top: 30px;
+	background-color: black;
+	color: white;
+}
+.mmm{
+	
+	padding: 8px;
+	
+	margin-top: 30px;
+	background-color: white;
+	color: black;
+}
+.eight input[type="button"]{
+	background-color: white;
+	color: black;
+	padding: 15px;
+	margin-left: 20px;
+	margin-top: 50px;
+	border: none;
+}
+.eight input[type="button"]:hover{
+	background-color: red;
+	color: white;
+}
